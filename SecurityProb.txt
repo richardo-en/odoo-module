@@ -1,0 +1,3 @@
+Súbor security síce vytvorí nové možnosti oprávnenia pouužívania modulu, ale 
+pravdepodobne sa nevzťahuje na res.partner modul čiže je nefunkční.
+Vytvorí nový group s názvom Customer Profile a možnosťami Admin of Segments a User of Segments.

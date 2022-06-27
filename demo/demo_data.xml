@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="dell" model="res.partner">
+        <field name="name">Dell s.r.o.</field>
+        <field name="vat">SK2020288952</field>
+        <field name="street">Fazuľová 7</field>
+        <field name="city">Bratislava</field>
+        <field name="zip">811 07</field>
+        <field name="vyber">b</field>
+        <field name="company_type">company</field>
+    </record>
+
+    <record id="eset" model="res.partner">
+        <field name="name">ESET, spol. s r.o.</field>
+        <field name="vat">SK2020317068</field>
+        <field name="street">Einsteinova 24</field>
+        <field name="city">Bratislava</field>
+        <field name="zip">851 01</field>
+        <field name="vyber">r</field>
+        <field name="company_type">company</field>
+    </record>  
+</odoo> 
